@@ -7,3 +7,5 @@ Add only those files to the staging area that are a part of the logical change t
 Viewing the git history through diagrams helps understand the reachability of your branch. 
 
 Merging two branches combines the commits in both the branches together. You can choose the label for the new branch as represented in the diagram.
+
+Gits auto merge is useful when the changes you have made are many and you are fully confident that they will not confict. Doing a manual merge can be cumbersome in this case. However, if you know that the changes you are making might result in conflicts and the changes are not that many, then you should go with manual merge.
