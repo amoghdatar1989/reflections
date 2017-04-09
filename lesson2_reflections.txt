@@ -3,3 +3,5 @@ When you initialize a repository git will help you to track the state of the fil
 The staging area groups all the changes in the working directory that you want to commit to the repository.
 
 Add only those files to the staging area that are a part of the logical change that you want to commit.
+
+Viewing the git history through diagrams helps understand the reachability of your branch. 
