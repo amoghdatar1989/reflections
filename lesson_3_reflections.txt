@@ -10,3 +10,7 @@ There can be merge conflicts which will have to be taken care of each time git p
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Branches help you work on different things in the same repository. Clones copies a remote repository and links it your local repository  for you to make changes to it. Fork duplicates a remote repository remotely, so that you can change the forked repository without making changes to the original one.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It will help you to know the latest changes made to the remote branch after the last known state.
