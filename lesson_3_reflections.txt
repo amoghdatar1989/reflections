@@ -14,3 +14,7 @@ Branches help you work on different things in the same repository. Clones copies
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It will help you to know the latest changes made to the remote branch after the last known state.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without github, everyone using the shared resources will have to communicate each time they are making changes to make sure that everyone else agrees on the changes. Also, when someone is making the changes, they will have to make sure that no else is also making changes at the same time so that neither of their changes are lost. This will be the difficult part. The easy part is that you wont have to deal with all the git commands.
